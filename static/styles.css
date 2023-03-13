@@ -1,0 +1,27 @@
+h1, h2 {
+    text-align: center;
+    color: #aaffff;
+}
+
+*{
+    font-family: monospace;
+    box-sizing: border-box;
+}
+
+a {
+    color: #1864a1;
+}
+
+body {
+    color: #00ebc4;
+    background: #001814;
+    font-size: 10pt;
+}
+
+footer {
+    position: fixed;
+    bottom: 20px;
+    text-align: center;
+    line-height:150%;
+    width:100%;
+ }
